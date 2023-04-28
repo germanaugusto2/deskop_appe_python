@@ -17,7 +17,7 @@ from tkinter import *
 ventana_principal = Tk()
 
 # Titul de la ventana 
-ventana_principal.title("Bandera de Colombia")
+ventana_principal.title("Bandera de colombia")
 
 # Tamaño de la ventana
 ventana_principal.geometry("500x500")
